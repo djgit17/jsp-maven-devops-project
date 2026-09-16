@@ -148,7 +148,7 @@
 <body>
 
     <header>
-        <h1>DevOps Automated Deployment Demo</h1>
+        <h1>DevOps Automated Deployment Demo - TODAY</h1>
         <p>Built with Apache Maven • CI/CD via Jenkins • Hosted on Apache Tomcat</p>
         <div class="status-badge">● Deployment Status: Active</div>
     </header>
